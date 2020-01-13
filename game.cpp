@@ -1,6 +1,5 @@
-// name: Jihao Xu jzx0032
-// partner: Zeping Wang zzw0057
-// filename: hw5.cpp
+// name: Zeping Wang 
+// filename: game.cpp
 // due date: 10/5/2018
 // collaboration: We got some information from google.
 // ask questions and test it.
